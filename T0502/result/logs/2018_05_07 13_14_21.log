@@ -1,0 +1,16 @@
+[2018-05-07 13:14:52] [INFO] 启动chromedriver
+[2018-05-07 13:15:13] [INFO] 打开的网址是:http://www.jd.com
+[2018-05-07 13:15:13] [INFO] 找到元素为： class name: link-login
+[2018-05-07 13:15:33] [INFO] 对元素 class name: link-login做点击操作
+[2018-05-07 13:15:33] [INFO] 找到元素为： xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 13:15:33] [INFO] 对元素 xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a做点击操作
+[2018-05-07 13:15:33] [INFO] 找到元素为： id: loginname
+[2018-05-07 13:15:33] [INFO] 找到元素为： id: loginname
+[2018-05-07 13:15:33] [INFO] 清空元素: id: loginname的内容
+[2018-05-07 13:15:34] [INFO] 在元素 id: loginname上输入内容：123
+[2018-05-07 13:15:34] [INFO] 找到元素为： id: nloginpwd
+[2018-05-07 13:15:34] [INFO] 找到元素为： id: nloginpwd
+[2018-05-07 13:15:34] [INFO] 清空元素: id: nloginpwd的内容
+[2018-05-07 13:15:34] [INFO] 在元素 id: nloginpwd上输入内容：123
+[2018-05-07 13:15:34] [INFO] 找到元素为： id: loginsubmit
+[2018-05-07 13:15:34] [INFO] 对元素 id: loginsubmit做点击操作

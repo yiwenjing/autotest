@@ -1,0 +1,30 @@
+[2018-05-07 10:14:08] [INFO] 启动chromedriver
+[2018-05-07 10:14:22] [INFO] 打开的网址是:http://www.jd.com
+[2018-05-07 10:14:23] [INFO] 返回元素的定位值是： class name: link-login
+[2018-05-07 10:14:23] [INFO] 找到元素为： class name: link-login
+[2018-05-07 10:14:39] [INFO] 返回元素的定位值是： class name: link-login
+[2018-05-07 10:14:39] [INFO] 对元素 class name: link-login做点击操作
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 10:14:40] [INFO] 找到元素为： xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 10:14:40] [INFO] 对元素 xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a做点击操作
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: loginname
+[2018-05-07 10:14:40] [INFO] 找到元素为： id: loginname
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: loginname
+[2018-05-07 10:14:40] [INFO] 找到元素为： id: loginname
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: loginname
+[2018-05-07 10:14:40] [INFO] 清空元素: id: loginname的内容
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: loginname
+[2018-05-07 10:14:40] [INFO] 在元素 id: loginname上输入内容：test
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: nloginpwd
+[2018-05-07 10:14:40] [INFO] 找到元素为： id: nloginpwd
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: nloginpwd
+[2018-05-07 10:14:40] [INFO] 找到元素为： id: nloginpwd
+[2018-05-07 10:14:40] [INFO] 返回元素的定位值是： id: nloginpwd
+[2018-05-07 10:14:40] [INFO] 清空元素: id: nloginpwd的内容
+[2018-05-07 10:14:41] [INFO] 返回元素的定位值是： id: nloginpwd
+[2018-05-07 10:14:41] [INFO] 在元素 id: nloginpwd上输入内容：test123
+[2018-05-07 10:14:41] [INFO] 返回元素的定位值是： id: loginsubmit
+[2018-05-07 10:14:41] [INFO] 找到元素为： id: loginsubmit
+[2018-05-07 10:14:41] [INFO] 返回元素的定位值是： id: loginsubmit
+[2018-05-07 10:14:41] [INFO] 对元素 id: loginsubmit做点击操作
