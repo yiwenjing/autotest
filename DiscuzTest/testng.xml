@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+       <suite name="DiscueWhiteTest">
+   <parameter name="Browser" value="firefox"/>
+    <test name="luntan">
+        <classes>
+
+        </classes>
+    </test>
+
+</suite>

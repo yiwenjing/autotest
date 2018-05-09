@@ -1,0 +1,10 @@
+[2018-05--07 22:57:48] [INFO] 启动cromedriver
+[2018-05--07 22:57:52] [INFO] 打开的网址是：http://127.0.0.1:8090/Upload/forum.php
+[2018-05--07 22:57:52] [INFO] 返回元素的定位值是; id: ls_username
+[2018-05--07 22:57:52] [INFO] 找到的元素为： id: ls_username
+[2018-05--07 22:57:52] [INFO] 返回元素的定位值是; id: ls_username
+[2018-05--07 22:57:52] [INFO] 在元素 id: ls_username上输入内容：admin
+[2018-05--07 22:57:52] [INFO] 返回元素的定位值是; id: ls_password
+[2018-05--07 22:57:52] [INFO] 找到的元素为： id: ls_password
+[2018-05--07 22:57:52] [INFO] 返回元素的定位值是; id: ls_password
+[2018-05--07 22:57:52] [INFO] 在元素 id: ls_password上输入内容：123456
